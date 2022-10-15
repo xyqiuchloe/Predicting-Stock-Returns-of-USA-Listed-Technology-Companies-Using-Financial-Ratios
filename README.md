@@ -36,3 +36,11 @@ formed based on the identified relationship end up producing excess returns over
 portfolios and S&P 500 index using a hold-out testing set. Higher returns on winning
 portfolios would provide evidence for market anomalies that can be taken advantage of for
 stock investment and hence challenge efficient market hypothesis.
+
+## Contents:
+
+### To see the full report, please see document: 'Final Report.pdf'
+
+### To see the codes for data preprocessing and Exploratory Analysis, please see document: ''
+### To see the coding for methodology and visualization, please see document: ''
+

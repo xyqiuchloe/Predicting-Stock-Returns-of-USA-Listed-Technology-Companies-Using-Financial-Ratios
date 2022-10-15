@@ -1,6 +1,8 @@
 # Predicting-Stock-Returns-of-USA-Listed-Technology-Companies-Using-Financial-Ratios
 Academic Project with R programming
 
+
+## Introduction
 Investment in financial securities, especially stocks, has become an important aspect
 of the American economy since the last century. Each day, over 1.5 billion shares of stock are
 traded on the New York Stock Exchange with millions of people relying on stock trading as

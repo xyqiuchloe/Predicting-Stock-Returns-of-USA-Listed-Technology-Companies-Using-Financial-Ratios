@@ -41,6 +41,7 @@ stock investment and hence challenge efficient market hypothesis.
 
 ### To see the full report, please see document: 'Final Report.pdf'
 
-### To see the codes for data preprocessing and Exploratory Analysis, please see document: ''
-### To see the coding for methodology and visualization, please see document: ''
+### To see the codes for data preprocessing and Exploratory Analysis, please see document: 'Data_Preprocess_EDA.Rmd'
+
+### To see the coding for methodology and visualization, please see document: 'Data_Analysis.ipynb'
 

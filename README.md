@@ -1,5 +1,5 @@
 # Predicting-Stock-Returns-of-USA-Listed-Technology-Companies-Using-Financial-Ratios
-Academic Project with R programming
+Machine Learning Project with Random Forest, generalized linear model using R.
 
 
 ## Introduction
